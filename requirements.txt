@@ -17,3 +17,4 @@ sqlparse
 tzdata
 virtualenv
 psycopg2
+whitenoise
